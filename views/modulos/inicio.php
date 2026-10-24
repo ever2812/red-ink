@@ -9,7 +9,7 @@
                 <p data-aos="fade-up" data-aos-delay="200">Se terminaron tus cartuchos?, Sin consumibles?...
                 </p>
                 <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
-                    <a href="#acerca" class="btn-get-started">Conoce mas</a>
+                    <a href="https://wa.me/9612448004?text=Hola,%20necesito%20mas%20informaci%C3%B3n%20sobre%20sus%20servicios" target="_blank" class="btn-get-started"><i class="bi bi-whatsapp me-2"></i>Contáctanos Ahora</a>
                     <!--
                     <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
                         class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i>

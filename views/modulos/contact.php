@@ -35,7 +35,7 @@
                             data-aos-delay="400">
                             <i class="bi bi-envelope"></i>
                             <h3>Nuestro Correo</h3>
-                            <p>ventas@red-ink.store</p>
+                            <p><a href="mailto:ventas@red-ink.store">ventas@red-ink.store</a></p>
                         </div>
                     </div><!-- End Info Item -->
 
