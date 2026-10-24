@@ -10,7 +10,7 @@
 
                     <p>13a Sur Poniente 880</p>
                     <p>Col. San Francisco, Tuxtla Gutiérrez, Chiapas</p>
-                    <p class="mt-3"><strong>Teléfono:</strong> <span>961 223 6697</span></p>
+                    <p class="mt-3"><strong>Teléfono:</strong> <span><a href="tel:9612236697">961 223 6697</a></span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
                     <a href="https://x.com/redink"><i class="bi bi-twitter-x"></i></a>

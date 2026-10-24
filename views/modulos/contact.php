@@ -26,7 +26,7 @@
                             data-aos-delay="300">
                             <i class="bi bi-telephone"></i>
                             <h3>Llámanos</h3>
-                            <p>961 223 6697 </p>
+                            <p><a href="tel:9612236697">961 223 6697</a></p>
                         </div>
                     </div><!-- End Info Item -->
 
