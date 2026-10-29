@@ -8,8 +8,8 @@
                 </a>
                 <div class="footer-contact pt-3">
 
-                    <p>13a Sur Poniente 880</p>
-                    <p>Col. San Francisco, Tuxtla Gutiérrez, Chiapas</p>
+                    <p><a href="https://maps.app.goo.gl/b3qrWTRe3vfAsmLZ8" target="_blank" rel="noopener noreferrer">13a Sur Poniente 880</a></p>
+                    <p><a href="https://maps.app.goo.gl/b3qrWTRe3vfAsmLZ8" target="_blank" rel="noopener noreferrer">Col. San Francisco, Tuxtla Gutiérrez, Chiapas</a></p>
                     <p class="mt-3"><strong>Teléfono:</strong> <span><a href="tel:9612236697">961 223 6697</a></span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
@@ -37,7 +37,7 @@
                 </ul>
             </div>
 
-
+<!-- 
             <div class="col-lg-4 col-md-12 footer-newsletter">
                 <h4>Noticias</h4>
                 <p>Suscribete para recibir noticias y promociones</p>
@@ -47,7 +47,7 @@
                     <div class="error-message"></div>
                     <div class="sent-message">Your subscription request has been sent. Thank you!</div>
                 </form>
-            </div>
+            </div> -->
 
 
 

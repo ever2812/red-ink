@@ -17,7 +17,7 @@
                             data-aos-delay="200">
                             <i class="bi bi-geo-alt"></i>
                             <h3>Visítanos</h3>
-                            <p>13a Sur Poniente 880, Col. San Francisco, Tuxtla Gutiérrez, Chiapas</p>
+                            <p><a href="https://maps.app.goo.gl/b3qrWTRe3vfAsmLZ8" target="_blank" rel="noopener noreferrer">13a Sur Poniente 880, Col. San Francisco, Tuxtla Gutiérrez, Chiapas</a></p>
                         </div>
                     </div><!-- End Info Item -->
 
